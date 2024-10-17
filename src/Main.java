@@ -83,5 +83,8 @@ public class Main {
 
         System.out.println(SummaryRanges.summaryRanges(x));
 
+        int [] y ={37,12,28,9,100,56,80,5,12};
+        System.out.println(Arrays.toString(RankTransformOfArray.arrayRankTransform(y)));
+
     }
 }
